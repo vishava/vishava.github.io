@@ -63,8 +63,9 @@ console.log('data.file.childImageSharp.fluid', data.file.childImageSharp.fluid);
         >
           <h1>fsagdsfkdsjfhkdsjhfkjdshfkjdsfh Manu</h1>
         </Img> */}
-
-
+        <div class="s9-widget-wrapper"
+              style={{ marginLeft: 340 }}
+        ></div>
       </div>
     </header>
   );
